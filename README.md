@@ -13,3 +13,7 @@ Web neobsahuje analytiku, cookies, formuláře ani externí skripty.
 
 GitHub Pages publikuje větev `main` z kořenového adresáře. Soubor `CNAME` nastavuje vlastní doménu `adivio.cloud`.
 
+
+## Auto v klidu
+
+Samostatné stránky `/auto-v-klidu/support/` a `/auto-v-klidu/privacy/`. Bez formulářů a externích skriptů.
