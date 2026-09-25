@@ -13,8 +13,8 @@ Obě stránky zásad popisují ukládání dat, exporty, oprávnění, zálohy, 
 
 ## Publikování a kontrola
 
-Git remote tohoto adresáře je `https://github.com/Goudiik/dum-v-klidu-web.git` a větev `main`. Soubor `CNAME` nastavuje doménu `adivio.cloud`. Otevřený draft PR #1 z 12. září pro Auto v klidu ukazuje integraci Cloudflare Workers and Pages a neúspěšný build. Starší README v `main` uvádí GitHub Pages; skutečné produkční napojení a chybu buildu je nutné ověřit v Cloudflare.
+Git remote tohoto adresáře je `https://github.com/Goudiik/dum-v-klidu-web.git` a větev `main`. Soubor `CNAME` nastavuje doménu `adivio.cloud`. Po nahrání stránek 25. září 2026 prošly kontroly GitHub Pages i Cloudflare Workers and Pages a nový obsah byl ověřen na živé doméně. Starší draft PR #1 z 12. září zůstává otevřený s již překonaným neúspěšným buildem a staršími texty Auto v klidu.
 
-Před touto aktualizací živé zásady Domu v klidu stále obsahovaly staré tvrzení, že aplikace nepoužívá fotoaparát. Po každém nasazení je nutné otevřít všechna čtyři URL bez přihlášení a ověřit jejich aktuální obsah.
+Před touto aktualizací živé zásady Domu v klidu stále obsahovaly staré tvrzení, že aplikace nepoužívá fotoaparát. Po každém dalším nasazení je nutné otevřít všechna čtyři URL bez přihlášení a ověřit jejich aktuální obsah.
 
 Před odesláním aplikací ke kontrole Applem je dále potřeba ověřit odkazy uvnitř obou aplikací a zadat tyto URL i pravdivé údaje App Privacy do App Store Connect. V projektu Auto v klidu zatím chybí konfigurační klíč `PrivacyPolicyURL`; vydání se skenerem bude vyžadovat také `NSCameraUsageDescription` a nový audit soukromí. Provozovatel má potvrdit znění o uchování e-mailů zaslaných podpoře.
