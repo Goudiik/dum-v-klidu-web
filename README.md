@@ -15,7 +15,7 @@ Obě stránky zásad popisují ukládání dat, exporty, oprávnění, zálohy, 
 
 České adresy zůstávají stejné. Anglické stránky mají odpovídající cesty pod `/en/` včetně úvodu `/en/`. Každá stránka má viditelné přepnutí jazyka, správný atribut `lang`, kanonickou adresu a odkazy `hreflang` na obě verze. Překlad musí zůstat věcně shodný s českými zásadami.
 
-Grafika v `assets/images/` obsahuje dvě ilustrativní fotografie vytvořené nástrojem OpenAI imagegen pro tento web a ikony převzaté z příslušných projektů aplikací. Fotografie nepředstavují obrazovky aplikací ani konkrétní majetek uživatele.
+Grafika v `assets/images/` obsahuje dvě ilustrativní fotografie vytvořené nástrojem OpenAI imagegen pro tento web, oficiální logo stažené z `https://www.adivio.cz/wp-content/uploads/2025/03/adivio_barevne_male.png` a ikony převzaté z příslušných projektů aplikací. Fotografie nepředstavují obrazovky aplikací ani konkrétní majetek uživatele.
 
 ## Publikování a kontrola
 
