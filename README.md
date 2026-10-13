@@ -24,3 +24,9 @@ Git remote tohoto adresáře je `https://github.com/Goudiik/dum-v-klidu-web.git`
 Před touto aktualizací živé zásady Domu v klidu stále obsahovaly staré tvrzení, že aplikace nepoužívá fotoaparát. Po každém dalším nasazení je nutné otevřít všech deset českých a anglických adres bez přihlášení a ověřit jejich aktuální obsah.
 
 Před odesláním aplikací ke kontrole Applem je dále potřeba ověřit odkazy uvnitř obou aplikací a zadat tyto URL i pravdivé údaje App Privacy do App Store Connect. V projektu Auto v klidu zatím chybí konfigurační klíč `PrivacyPolicyURL`; vydání se skenerem bude vyžadovat také `NSCameraUsageDescription` a nový audit soukromí. Provozovatel má potvrdit znění o uchování e-mailů zaslaných podpoře.
+
+## Mazlíček v klidu — 1.0
+
+Support: https://adivio.cloud/mazlicek-v-klidu/support/
+Privacy: https://adivio.cloud/mazlicek-v-klidu/privacy/
+English equivalents use /en/. Content describes the actual local records, selected photo and file imports, notification previews, StoreKit subscriptions, PDF/CSV exports and deletion. It does not promise a scanner, full backup, cloud sync or a veterinary service. Contact and support-email retention wording follow the existing Adivio pages.
