@@ -8,5 +8,5 @@ main{padding:24px 0 72px}.eyebrow{margin:0 0 12px;color:#4c7860;font-size:.8rem;
 @media(max-width:620px){.shell{width:min(100% - 28px,1160px)}.site-header{min-height:auto;padding:18px 0 20px;align-items:flex-start;flex-wrap:wrap}.header-actions{width:100%;justify-content:space-between;gap:10px}.main-nav{gap:12px;flex-wrap:wrap}.main-nav a{font-size:.8rem}main{padding-top:8px}.home-hero{padding:30px 24px;border-radius:24px}.home-hero img{height:220px}.section-heading{display:block;margin-top:46px}.section-heading p{margin-top:8px}.product-grid{grid-template-columns:1fr}.product-card>img{height:210px}.document-hero{padding:28px 24px;border-radius:24px}.document-hero img{height:190px}.document-content{padding:26px 22px}.site-footer{flex-direction:column}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button{transition:none}}
 
-/* Mazlíček: show the complete existing app emblem without cropping. */
-.product-card--pet>img,.document-hero--pet>img{object-fit:contain;background:#124a50}.product-card--pet>img{padding:18px}.document-hero--pet{background:#e6eeec}
+/* Mazlíček support and privacy pages retain the complete app emblem. */
+.document-hero--pet>img{object-fit:contain;background:#124a50}.document-hero--pet{background:#e6eeec}

@@ -15,7 +15,7 @@ Obě stránky zásad popisují ukládání dat, exporty, oprávnění, zálohy, 
 
 České adresy zůstávají stejné. Anglické stránky mají odpovídající cesty pod `/en/` včetně úvodu `/en/`. Každá stránka má viditelné přepnutí jazyka, správný atribut `lang`, kanonickou adresu a odkazy `hreflang` na obě verze. Překlad musí zůstat věcně shodný s českými zásadami.
 
-Grafika v `assets/images/` obsahuje dvě ilustrativní fotografie vytvořené nástrojem OpenAI imagegen pro tento web, oficiální logo stažené z `https://www.adivio.cz/wp-content/uploads/2025/03/adivio_barevne_male.png` a ikony převzaté z příslušných projektů aplikací. Fotografie nepředstavují obrazovky aplikací ani konkrétní majetek uživatele.
+Grafika v `assets/images/` obsahuje tři ilustrativní fotografie vytvořené nástrojem OpenAI imagegen pro tento web, oficiální logo stažené z `https://www.adivio.cz/wp-content/uploads/2025/03/adivio_barevne_male.png` a ikony převzaté z příslušných projektů aplikací. Fotografie nepředstavují obrazovky aplikací ani konkrétní majetek uživatele.
 
 ## Publikování a kontrola
 
@@ -30,3 +30,5 @@ Před odesláním aplikací ke kontrole Applem je dále potřeba ověřit odkazy
 Support: https://adivio.cloud/mazlicek-v-klidu/support/
 Privacy: https://adivio.cloud/mazlicek-v-klidu/privacy/
 English equivalents use /en/. Content describes the actual local records, selected photo and file imports, notification previews, StoreKit subscriptions, PDF/CSV exports and deletion. It does not promise a scanner, full backup, cloud sync or a veterinary service. Contact and support-email retention wording follow the existing Adivio pages.
+
+Fotografie `assets/images/pet-editorial.jpg` (1536 × 1024) byla vytvořena vestavěným OpenAI imagegen 19. října 2026. Barevností a světlem navazuje na fotografie Domu a Auta. Používá se na české i anglické úvodní stránce se stejným ořezem jako ostatní karty; malá ikona aplikace zůstává zachována. Zadání generování je uloženo v `assets/images/pet-editorial.source.json`.
