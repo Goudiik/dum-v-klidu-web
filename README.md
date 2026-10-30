@@ -32,3 +32,13 @@ Privacy: https://adivio.cloud/mazlicek-v-klidu/privacy/
 English equivalents use /en/. Content describes the actual local records, selected photo and file imports, notification previews, StoreKit subscriptions, PDF/CSV exports and deletion. It does not promise a scanner, full backup, cloud sync or a veterinary service. Contact and support-email retention wording follow the existing Adivio pages.
 
 Fotografie `assets/images/pet-editorial.jpg` (1536 × 1024) byla vytvořena vestavěným OpenAI imagegen 19. října 2026. Barevností a světlem navazuje na fotografie Domu a Auta. Používá se na české i anglické úvodní stránce se stejným ořezem jako ostatní karty; malá ikona aplikace zůstává zachována. Zadání generování je uloženo v `assets/images/pet-editorial.source.json`.
+
+
+## Zombie Wall — 1.0.0
+
+| Jazyk | Podpora | Zásady ochrany soukromí |
+| --- | --- | --- |
+| Čeština | https://adivio.cloud/zombie-wall/support/ | https://adivio.cloud/zombie-wall/privacy/ |
+| Angličtina | https://adivio.cloud/en/zombie-wall/support/ | https://adivio.cloud/en/zombie-wall/privacy/ |
+
+Texty odpovídají vydání 1.0.0: prvních 5 nocí a denní výzva zdarma, jednorázová Plná hra, Rodinné sdílení, obnova nákupů, místní data, iCloud kampaní, volitelné Game Center, export záznamu a smazání. Neuvádějí nepotvrzenou cenu ani odkaz na dosud nevydanou aplikaci. Kontakt a uchování zpráv podpory navazují na ostatní stránky Adivio. Ikona `zombie-wall-icon.png` je přesná kopie schváleného náhledu `Art/Source/Brand/previews/app-icon-light.png` z projektu hry; není snímkem herního rozhraní. Aktualizováno 30. října 2026.
