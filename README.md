@@ -42,3 +42,7 @@ Fotografie `assets/images/pet-editorial.jpg` (1536 × 1024) byla vytvořena vest
 | Angličtina | https://adivio.cloud/en/zombie-wall/support/ | https://adivio.cloud/en/zombie-wall/privacy/ |
 
 Texty odpovídají vydání 1.0.0: prvních 5 nocí a denní výzva zdarma, jednorázová Plná hra, Rodinné sdílení, obnova nákupů, místní data, iCloud kampaní, volitelné Game Center, export záznamu a smazání. Neuvádějí nepotvrzenou cenu ani odkaz na dosud nevydanou aplikaci. Kontakt a uchování zpráv podpory navazují na ostatní stránky Adivio. Ikona `zombie-wall-icon.png` je přesná kopie schváleného náhledu `Art/Source/Brand/previews/app-icon-light.png` z projektu hry; není snímkem herního rozhraní. Aktualizováno 30. října 2026.
+
+### Ilustrace Zombie Wall
+
+Na pokyn vlastníka byla 30. 10. 2026 přes vestavěný OpenAI imagegen vytvořená široká ilustrace `assets/images/zombie-wall-editorial-v1.png` (1536 × 1024). Teplé ranní světlo, mlha a tlumená zeleň navazují na ostatní redakční obrázky webu; scéna ukazuje hradbu, světlomet a hordu. Jde o ilustrační grafiku, nikoli screenshot hry. Používá se na obou rozcestnících a čtyřech stránkách Zombie Wall. Malá schválená ikona zůstává u názvu a v boční navigaci. Plné zadání je v `zombie-wall-editorial-v1.source.json`; soubor byl zkopírovaný bez úprav pixelů.
